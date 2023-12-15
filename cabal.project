@@ -1,0 +1,1 @@
+packages: main-package/*.cabal my-dependency/*.cabal
